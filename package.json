@@ -8,7 +8,7 @@
     "type": "git",
     "url": "git+https://github.com/jpb06/bump-package.git"
   },
-  "author": "jpb06 <jpb.06@outlook.com>",
+  "author": "jpb06 <jpb.06@outlook.com>, Sudobase-AI",
   "license": "MIT",
   "engines": {
     "node": "20.x"
